@@ -17,6 +17,8 @@ public class TrangChuForm extends javax.swing.JFrame {
      */
     public TrangChuForm() {
         initComponents();
+                setLocationRelativeTo(null);
+
     }
 
     /**
@@ -311,6 +313,8 @@ public class TrangChuForm extends javax.swing.JFrame {
 
     private void btnHoaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHoaActionPerformed
         // TODO add your handling code here:
+//        new QuanLyHoaForm().setVisible(true);
+        this.dispose();
     }//GEN-LAST:event_btnHoaActionPerformed
 
     private void btnTaiKhoanActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnTaiKhoanActionPerformed

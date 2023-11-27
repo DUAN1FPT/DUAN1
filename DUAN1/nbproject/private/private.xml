@@ -3,13 +3,30 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Repository/DbConnector.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Service/XuatXuService.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Model/Mau.java</file>
             <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Service/XacThucTaiKhoan.java</file>
             <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Model/TaiKhoan.java</file>
             <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/views/TrangChuForm.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Model/KichThuoc.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Repository/KichThuocRepository.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Repository/HoaRepository.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Model/Hoa.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Service/NhaCungCapService.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Model/XuatXu.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/views/ThongKeForm.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Service/MauService.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Model/NhaCungCap.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Repository/DbConnector.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Repository/NhaCungCapRepository.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Repository/XuatXuRepository.java</file>
             <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/views/QuanLyHoaForm.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Repository/MauRepository.java</file>
             <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/views/DangNhapForm.java</file>
             <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/views/LichSuHoaDonForm.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Service/HoaService.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/Service/KichThuocService.java</file>
+            <file>file:/C:/Users/Admin/Desktop/DUAN1/DUAN1/src/views/QuanLyKhachHangForm.java</file>
         </group>
     </open-files>
 </project-private>
